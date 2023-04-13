@@ -1,7 +1,7 @@
-# <code>Covid-19-Data-Analysis-Project</code>
-### This is a project that deals with COVID-19 data analysis and visualization using Python programming language. The project uses two datasets:
+## Covid-19-Data-Analysis-Project
+##### This is a project that deals with COVID-19 data analysis and visualization using Python programming language. The project uses two datasets:
 
-#### <b> 1.Covid-19 Global Dataset: This dataset provides up-to-date numbers of daily confirmed, death and active cases for 225 countries.</b>
+##### <b> 1.Covid-19 Global Dataset: This dataset provides up-to-date numbers of daily confirmed, death and active cases for 225 countries.</b>
 
 ![1 Covid_Data](https://user-images.githubusercontent.com/118658753/223106920-e22916f3-a514-4c3f-9f81-ea11fb8f3dea.png)
 
